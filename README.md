@@ -3,7 +3,7 @@
 ## 🌐 Base URL
 
 ```
-https://your-api-url.com
+https://hng14-be-03.onrender.com/
 ```
 
 ---
